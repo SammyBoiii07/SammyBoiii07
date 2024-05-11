@@ -1,8 +1,6 @@
 ![logo](GitHubBlue.jpg)
 <h1 align ="center">Hi There😉</h1>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Project on Neural Network Training 
 - 🌱 I’m currently learning DL
 - 👯 I’m looking to collaborate on NOTHING 
