@@ -1,5 +1,5 @@
-# Hi there 👋
-
+![logo](GitHubBlue.jpg)
+<h1 align ="center">Hi There😉</h1>
 
 Here are some ideas to get you started:
 
