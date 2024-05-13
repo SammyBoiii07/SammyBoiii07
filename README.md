@@ -1,8 +1,29 @@
 ![logo](GitHubBlue.jpg)
 <h1 align ="center">Hi There😉</h1>
 
+🚀 Hey GitHub Enthusiast ! Here is Sam From Planet Earth 🌏 How Are You Mate !
 
-- 📫 How to reach me:
-   [EMAIL](mailto:acba0702@gmail.com)
-- ⚡ Fun fact: I 'm A Human
+## Languages & Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
+    <br>
+</div>
 
+<div align="center">
+  <h3> Hope Loved The Profile Show Some Love ❤️ By Staring Some Repos</h3>
+   
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
+<hr>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SammyBoii07&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<hr>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
