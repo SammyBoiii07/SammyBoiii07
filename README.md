@@ -10,6 +10,17 @@
     <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
     <br>
 </div>
+<h2 align ="center">⚡️Stats⚡️</h2>
+<!-- GitHub Stats -->
+<a href="http://www.github.com/SammyBoiii07">
+    <img src="https://github-readme-stats.vercel.app/api?username=SammyBoiii07&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&count_private=true" alt="GitHub Stats" />
+</a>
+
+<!-- GitHub Contributions Graph -->
+<a href="http://www.github.com/SammyBoiii07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyBoiii07&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+</a>
+
 
 <div align="center">
   <h3> Hope Loved The Profile Show Some Love ❤️ By Staring Some Repos</h3>
