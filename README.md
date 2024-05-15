@@ -18,7 +18,7 @@
 
 <!-- GitHub Contributions Graph -->
 <a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyBoiii07&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyBoiii07&theme=dark&background=1c1917&border-radius=30&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </a>
 
 
