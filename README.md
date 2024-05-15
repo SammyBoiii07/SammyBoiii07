@@ -1,7 +1,7 @@
 ![logo](GitHubBlue.jpg)
 <h1 align ="center">Hi There😉</h1>
 
-🚀 Hey GitHub Enthusiast ! Here is Sam From Planet Earth 🌏 How Are You Mate !
+🚀 Hey GitHub Enthusiasts ! Here is Sam From Planet Earth 🌏 How Are You Mate !
 
 ## Languages & Tools
 <div align="center">
@@ -16,7 +16,6 @@
    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
 </div>
 <hr>
 <div id="header" align="center">
